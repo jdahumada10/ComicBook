@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:convert';
 
 import 'package:comicbook/src/models/comic_model.dart';
-import 'package:comicbook/src/pages/comic_detail.dart';
 import 'package:http/http.dart' as http;
 
 class ComicsProvider{

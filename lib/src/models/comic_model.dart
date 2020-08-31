@@ -1,5 +1,3 @@
-import 'package:comicbook/src/providers/comics_provider.dart';
-
 class Comics{
   List<Comic> comics = new List();
   Comics();
