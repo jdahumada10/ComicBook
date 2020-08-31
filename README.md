@@ -1,16 +1,17 @@
-# comicbook
+# ComicBook App
 
-A new Flutter project.
+App that consumes the restful API of Comic Vine.[![GitHub Release](https://img.shields.io/badge/-TechnicalTest-blue)]() 
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Show a list of the last comics.
+- Show a detail of the selected comic. The detailed view includes *when is available in the API*:
+  - Characters with image.
+  - Concepts with image.
+  - Locations with image.
+- Inifite scroll that loads 20 comics when the user arrive to the end of the page. Reducing the mobile data consumption.
+- Two ways of visualization:
+  - Grid view simulating a library.
+  - List view-
+- Hero animation for the comic image.
+- Loading gif and CircularProgressIndicator when the app is getting information from internet.
