@@ -12,6 +12,6 @@ App that consumes the restful API of Comic Vine.[![GitHub Release](https://img.s
 - Inifite scroll that loads 20 comics when the user arrive to the end of the page. Reducing the mobile data consumption.
 - Two ways of visualization:
   - Grid view simulating a library.
-  - List view-
+  - List view
 - Hero animation for the comic image.
 - Loading gif and CircularProgressIndicator when the app is getting information from internet.
