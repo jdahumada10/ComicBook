@@ -1,6 +1,6 @@
 # ComicBook App
 
-App that consumes the restful API of Comic Vine.[![GitHub Release](https://img.shields.io/badge/-TechnicalTest-blue)]() 
+App that consumes the restful API of Comic Vine.[![GitHub Release](https://img.shields.io/badge/-TechnicalTest-blue)](https://youtu.be/ONwGqGjy0Zo) 
 
 ## Features
 
