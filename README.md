@@ -15,3 +15,4 @@ App that consumes the restful API of Comic Vine.[![GitHub Release](https://img.s
   - List view
 - Hero animation for the comic image.
 - Loading gif and CircularProgressIndicator when the app is getting information from internet.
+- [Demo](https://youtu.be/ONwGqGjy0Zo)
